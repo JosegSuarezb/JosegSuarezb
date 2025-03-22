@@ -15,7 +15,7 @@
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://docs.google.com/document/d/14FGx6i_6kzToK34mVYDXp5e2Lxs8Typf/edit?usp=sharing&ouid=100029602396485784422&rtpof=true&sd=true).
 <br>
 
-## What I am Good at 🧑‍💻 :
+## Skills 🧑‍💻 :
 
 <br>
 
