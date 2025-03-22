@@ -1,15 +1,4 @@
-## Hi there, I'm Jose Gregorio 👋
-
-<!--
-**JosegSuarezb/JosegSuarezb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently studying International Business an emphasis on Business Intelligence. I have skills in market analysis, data 
-visualization, strategic decision-making, and research. I have experience in internationalization and export projects. I am 
-characterized by being an ethical, responsible, and disciplined person, with adaptability to different environments. Additionally, I 
-possess technical skills in Python, SQLite, and Microsoft Excel, as well as language proficiency in Spanish (native),  English (B2), 
-Portuguese (B1), and Mandarin (HSK1).
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hi , I'm Jose Gregorio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
+</p>
