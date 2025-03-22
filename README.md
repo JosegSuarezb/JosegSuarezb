@@ -14,3 +14,15 @@
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://docs.google.com/document/d/14FGx6i_6kzToK34mVYDXp5e2Lxs8Typf/edit?usp=sharing&ouid=100029602396485784422&rtpof=true&sd=true).
 <br>
+
+## What I am Good at 🧑‍💻 :
+
+<br>
+
+<img src="https://iconos8.es/icon/13441/python"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
+
+<img src="https://iconos8.es/icon/VMRAbKfEzssG/sqlite"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
+
+<img src="https://img.icons8.com/color/48/000000/npm.png"/>
+
+<br>
